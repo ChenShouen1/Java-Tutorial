@@ -2,11 +2,11 @@ package OOP;
 
 public class Car {
 
-	private int doors;
-	private int wheels;
+	//private int doors;
+	//private int wheels;
 	private String model;
-	private String engine;
-	private String color;
+	//private String engine;
+	//private String color;
 	
 	public void setModel(String model)
 	{
